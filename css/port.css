@@ -1,0 +1,13 @@
+div {     background-color: #3826d3;     margin-left: 20px;     float: left;     width: 200px;   
+    height: 400px;     padding: 20px;   
+      font: 16px ‘sans-serif’;  
+         text-align: left;    }  
+           .visible {     overflow: visible;   color: white;;}   
+             .hidden {     overflow: hidden;    }   
+              .scroll {     overflow: scroll;    }   
+               .auto {     overflow: auto;    }   
+                 .scroll p , .altura p {     width: 250px;    }   
+                   .altura {           height: auto;    }  
+                   
+
+              

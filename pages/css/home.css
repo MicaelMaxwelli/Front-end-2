@@ -1,0 +1,58 @@
+
+
+#cabecalho {
+    display: block;
+    height: 70px;
+    width: 100%;
+    margin: 0 auto;
+    background-color: #E6D4C3;
+}
+
+a {
+    text-decoration: none;
+}
+
+#menu_principal ul li {
+    background-color: #332E28;
+    display: inline-block;
+    list-style: none;
+}
+
+li a {
+    position: relative;
+    color:white;
+    padding: 20px;
+}
+
+li {
+    position: relative;
+    float: right;
+    margin: 10px;
+    top: 15px;
+}
+
+#logo {
+    position: relative;
+    float: left;
+    width: 100px;
+    height: 100px;
+    top:5px;
+}
+
+
+#rodape {
+    clear: both;
+    display: block;
+    position: fixed;
+    bottom: 0px;
+    height: 70px;
+    width: 100%;
+    background-color: #e7dfd6;
+}
+
+nav ul li {
+    background-color: #332E28;
+    display: inline-block;
+    list-style: none;
+    float: right;
+}
